@@ -1,2 +1,2 @@
 # storage
-Repo for storing images
+Repo for storing variuos data.
